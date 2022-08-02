@@ -1,0 +1,30 @@
+{
+  "1": {
+    "id": 1,
+    "login": "test1234",
+    "password": "fd290305ab5386fd3b8af60b2323d237",
+    "name": "Yn",
+    "email": "eddfmail@email.com"
+  },
+  "2": {
+    "id": 2,
+    "login": "test12345",
+    "password": "cc53d6da0c4a72a68bdd8b2ddcb2a76b",
+    "name": "Vb",
+    "email": "eddffdmail@email.com"
+  },
+  "3": {
+    "id": 3,
+    "login": "bestuser",
+    "password": "25ac40f910f0e0fcaf18841daed45d65",
+    "name": "VB",
+    "email": "em2ail@email.com"
+  },
+  "4": {
+    "id": 4,
+    "login": "test123455",
+    "password": "fd290305ab5386fd3b8af60b2323d237",
+    "name": "VB",
+    "email": "ems2ail@email.com"
+  }
+}
